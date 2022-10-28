@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e84e60ea9541b9a4ab914bd81765d1c6, type: 3}
+  m_Name: Dialog1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - speakerName: Speaker
+    message: Press SpaceBar
+  - speakerName: Capsule
+    message: Josh had spent year and year accumulating the information. He knew it
+      inside out and if there was ever anyone looking for an expert in the field,
+      Josh would be the one to call. The problem was that there was nobody interested
+      in the information besides him and he knew it. Years of information painstakingly
+      memorized and sorted with not a sole giving even an ounce of interest in the
+      topic.
+  - speakerName: Capsule
+    message: He heard the loud impact before he ever saw the result. It had been
+      so loud that it had actually made him jump back in his seat. As soon as he
+      recovered from the surprise, he saw the crack in the windshield. It seemed
+      to be an analogy of the current condition of his life.
+  - speakerName: Capsule
+    message: He ordered his regular breakfast. Two eggs sunnyside up, hash browns,
+      and two strips of bacon. He continued to look at the menu wondering if this
+      would be the day he added something new. This was also part of the routine.
+      A few seconds of hesitation to see if something else would be added to the
+      order before demuring and saying that would be all. It was the same exact meal
+      that he had ordered every day for the past two years.
